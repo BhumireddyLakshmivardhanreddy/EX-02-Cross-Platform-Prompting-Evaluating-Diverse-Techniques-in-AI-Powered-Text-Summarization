@@ -101,7 +101,8 @@ Explore trips to the Caribbean with private beach villas and optional water spor
 
 ### Evaluation:
 ![image](https://github.com/user-attachments/assets/979ab7be-3bdc-44e1-af9b-40c822bdc37d)
-Winner: Claude – Slightly more creative with diverse vacation options.
 
+
+Winner: Claude – Slightly more creative with diverse vacation options.
 ## Result
 Thus, the summarized Result section based on the experiment using the three prompt types (Straightforward, Tabular Format, Missing Word) and two AI platforms (ChatGPT and Claude).
